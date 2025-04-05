@@ -9,7 +9,7 @@
 - Frontend:
   - HTML, CSS, JavaScript and TypeScript | (with ou without frameworks);
   - Frameworks: ReactJS and NextJS;
-  - Libraries: JQuery, Tailwind, Bootstrap, Tabler e etc...;
+  - Libraries: JQuery, Tailwind, Shadcn UI, Bootstrap, Tabler e etc...;
 - Database:
   - MySQL/MariaDB;
   - PostgreSQL;
