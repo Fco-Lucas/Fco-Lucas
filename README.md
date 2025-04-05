@@ -3,7 +3,7 @@
 ### I'm a web fullstack developer, and this is my stack:
 
 - Backend:
-  - PHP and JAVA | (with ou without frameworks);
+  - PHP and JAVA | (with or without frameworks);
   - Frameworks: Laravel, Spring Boot;
   - Libraries: Laravel Sanctum, Guzzle, Spring Security, JWT, ModelMapper JPA e etc...
 - Frontend:
