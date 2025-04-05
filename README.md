@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello buddy, my name is [Francisco Lucas](https://www.linkedin.com/in/francisco-lucas-199982265/)  👋
 
-<!--
-**Fco-Lucas/Fco-Lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a web fullstack developer, and this is my stack:
 
-Here are some ideas to get you started:
+- Backend:
+  - PHP and JAVA | (with ou without frameworks);
+  - Frameworks: Laravel, Spring Boot;
+  - Libraries: Laravel Sanctum, Guzzle, Spring Security, JWT, ModelMapper JPA e etc...
+- Frontend:
+  - HTML, CSS, JavaScript and TypeScript | (with ou without frameworks);
+  - Frameworks: ReactJS and NextJS;
+  - Libraries: JQuery, Tailwind, Bootstrap, Tabler e etc...;
+- Database:
+  - MySQL/MariaDB;
+  - PostgreSQL;
+  - MongoDB;
+- Tools:
+  - Git, GitHub and GitLab;
+  - Docker and Docker compose;
+  - Linux;
+  - SCRUM;
+  - Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![Francisco Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Fco-Lucas&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fco-Lucas&layout=compact)
