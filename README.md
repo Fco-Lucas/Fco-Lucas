@@ -7,7 +7,7 @@
   - Frameworks: Laravel, Spring Boot;
   - Libraries: Laravel Sanctum, Guzzle, Spring Security, JWT, ModelMapper JPA e etc...
 - Frontend:
-  - HTML, CSS, JavaScript and TypeScript | (with ou without frameworks);
+  - HTML, CSS, JavaScript and TypeScript | (with or without frameworks);
   - Frameworks: ReactJS and NextJS;
   - Libraries: JQuery, Tailwind, Shadcn UI, Bootstrap, Tabler e etc...;
 - Database:
