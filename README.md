@@ -5,11 +5,11 @@
 - Backend:
   - PHP and JAVA | (with or without frameworks);
   - Frameworks: Laravel, Spring Boot;
-  - Libraries: Laravel Sanctum, Guzzle, Spring Security, JWT, ModelMapper JPA e etc...
+  - Libraries: Laravel Sanctum, Guzzle, Spring Security, JWT, ModelMapper JPA and others...
 - Frontend:
   - HTML, CSS, JavaScript and TypeScript | (with or without frameworks);
   - Frameworks: ReactJS and NextJS;
-  - Libraries: JQuery, Tailwind, Shadcn UI, Bootstrap, Tabler e etc...;
+  - Libraries: JQuery, Tailwind, Shadcn UI, Bootstrap, Tabler and others...;
 - Database:
   - MySQL/MariaDB;
   - PostgreSQL;
